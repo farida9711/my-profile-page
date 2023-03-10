@@ -1,0 +1,84 @@
+/* Write some CSS below */
+
+body {
+    background-color: rgba(248, 168, 244, 0.101);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    
+}
+
+.img {
+    border-radius: 50%;
+    height: 150px;
+}
+
+h1 {
+    color: rgb(140, 6, 111);
+    font-size: 40px;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h2{
+    color: darkmagenta;
+    font-size: 32px;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    color: darkmagenta;
+    font-size: 20px;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card-white{
+     background-color: rgb(255, 255, 255);
+     box-shadow: 0px 10px 20px #600446; 
+     border-radius: 5px; 
+     padding: 40px;
+     text-align: center;
+     margin: 60px;
+     border: 2px solid #600446;
+}
+
+.card-white img {
+    margin: 20px;
+    margin-top: 40px;
+}
+
+.container {
+    margin: 20px auto;
+    width: 900px;
+}
+
+ul { 
+    text-align:justify; 
+    list-style-position:inside; 
+}
+
+p,li {
+    font-size: 15px;
+}
+
+
+
+.button {
+    background-color: #c41dd3; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px auto;
+    border-radius: 4px;
+    font-weight: 600;
+  }
+
+a:hover {
+    background-color: rgb(196, 220, 255);
+}
